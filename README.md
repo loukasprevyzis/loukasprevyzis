@@ -14,20 +14,6 @@
 
 Six-plus years across fintech and large-scale media streaming: Terraform foundations, Kubernetes platforms, CI/CD, observability, disaster recovery and infrastructure security.
 
-## Now
-
-**DevSecOps Engineer, Hyperlayer** (remote, Aug 2023 – present). Senior engineer on production-critical banking and fintech platforms in regulated cloud environments.
-
-| | |
-| --- | --- |
-| **25** | AWS accounts supported |
-| **30** | EKS clusters operated |
-| **9** | production environments |
-| **65+** | Terraform modules |
-| **25+** | engineers supported |
-
-Previously at Sky/NOW (London): Site Reliability Engineer (2022 – 2023) and Associate Site Reliability Engineer (2020 – 2022), working on large-scale streaming platforms.
-
 ## Stack
 
 | | |
